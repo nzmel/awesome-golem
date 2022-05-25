@@ -238,6 +238,9 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem GitHub Digest #15](https://blog.golemproject.net/golem-github-digest-15/) - Awesome, Goth improvements and towards Beta 3.
 - [Golem GitHub Digest #16](https://blog.golemproject.net/golem-github-digest-16/) - VPN, ARM binaries for requestors, and custom usage counters.
 
+### Golem Deep-Dive
+
+- [Golem Deep-Dive #1]() - Mid-agreement payments. 
 
 ## Community
 
